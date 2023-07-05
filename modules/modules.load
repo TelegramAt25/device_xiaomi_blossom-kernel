@@ -1,0 +1,11 @@
+bt_drv.ko
+fmradio_drv.ko
+fpsgo.ko
+gps_drv.ko
+kheaders.ko
+met.ko
+mt6357-accdet.ko
+trace_mmstat.ko
+wlan_drv_gen4m.ko
+wmt_chrdev_wifi.ko
+wmt_drv.ko
